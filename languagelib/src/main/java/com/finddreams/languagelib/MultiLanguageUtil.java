@@ -57,6 +57,8 @@ public class MultiLanguageUtil {
             locale = Locale.SIMPLIFIED_CHINESE;
         } else if (languageType == LanguageType.LANGUAGE_CHINESE_TRADITIONAL) {
             locale = Locale.TRADITIONAL_CHINESE;
+        } else if (languageType == LanguageType.LANGUAGE_KOREAN) {
+            locale = Locale.KOREAN;
         }
         Log.e(TAG, "getLanguageLocale  " + getLanguage(locale));
         return locale;

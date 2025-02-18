@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open_landscape">화면 페이지 열기</string>
+    <string name="open_webview">WebView 페이지 열기</string>
+    <string name="setting_language_title">영어</string>
+    <string name="setting_language">언어 설정</string>
+    <string name="otheractivity">다른 액티비티를 열어서 비정상인지 확인</string>
+    <string name="landscape">이것은 가로 화면 액티비티입니다</string>
+    <string name="service_create">서비스 생성</string>
+    <string name="test">테스트</string>
+    <string name="open_tool">도구 열기</string>
+    <string name="open_common">공통 열기</string>
+</resources>
